@@ -1,0 +1,16 @@
+{
+  "name": "workscrapper",
+  "version": "1.0.0",
+  "description": "A tool for scrape data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Polymorphl",
+  "license": "ISC",
+	"dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
